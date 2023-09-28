@@ -16,7 +16,7 @@ To get started with this project follow these steps:
    ```
 2. Navigate to the project directory:
    ```
-   cd Standard-Calculator
+   cd Apple-Calculator
    ```
 3. Install project dependencies using npm:
    ```
