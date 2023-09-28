@@ -1,4 +1,4 @@
-# STANDARD CALCULATOR
+# APPLE CALCULATOR
 
 ## Project Description
 
